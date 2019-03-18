@@ -1,5 +1,5 @@
 <template>
-    <div></div>
+    <div>直播</div>
 </template>
 <script>
 export default {
